@@ -35,7 +35,7 @@ class TopicsScreen extends StatelessWidget {
             bottomNavigationBar: AppBottomNav(),
           );
         } else {
-          return ProfileScreen();
+          return LoadingScreen();
         }
       },
     );
