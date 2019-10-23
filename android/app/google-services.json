@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "193222055389",
+    "firebase_url": "https://firestore-tuts-e9a3a.firebaseio.com",
+    "project_id": "firestore-tuts-e9a3a",
+    "storage_bucket": "firestore-tuts-e9a3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193222055389:android:b6630fb1860df7ae7c5234",
+        "android_client_info": {
+          "package_name": "tech.krotion.quizappDemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193222055389-7tttmgple4s59s6s0kl6r04if54vmvp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.krotion.quizappDemo",
+            "certificate_hash": "d2de15a1e63042e8649dc8f9e3dd65763d378a58"
+          }
+        },
+        {
+          "client_id": "193222055389-k5ipi8db52srbt2pe331jo74vgpbnfok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9kQ4ZaW3AiCNW6jTeO0sdK2_gk4urOn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193222055389-k5ipi8db52srbt2pe331jo74vgpbnfok.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193222055389-regudath6pqp61071vmqaot0hr7p9jrj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tech.krotion.quizappDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
